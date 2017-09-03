@@ -12,6 +12,8 @@
 1. 手动控制模式
 2. 自动避障模式
 
-具体介绍可转到(智能蓝牙小车)[]
+具体介绍可转到(智能蓝牙小车)[https://github.com/whonor/BluetoothCarController]
+
+注：
 
 蓝牙小车控制平台更新到V2.1，优化了模式切换后，按键冲突的BUG
