@@ -12,7 +12,7 @@
 1. 手动控制模式
 2. 自动避障模式
 
-具体介绍可转到(智能蓝牙小车)[https://github.com/whonor/BluetoothCarController]
+具体介绍可转到[智能蓝牙小车](https://github.com/whonor/BluetoothCarController)或[教菜鸟做蓝牙遥控小车——基于安卓平台和51单片机](http://www.jianshu.com/p/a1fc67984a03)
 
 注：
 
